@@ -56,7 +56,7 @@ const Section1 = () => {
                 priority
               />
               <div className="absolute bottom-4 left-4 right-4 p-4 bg-black/50 backdrop-blur-sm rounded-lg">
-                <h3 className="text-white font-medium">"The Cyber City" by Those Who Wonder</h3>
+                <h3 className="text-white font-medium">&quot;The Cyber City&quot; by Those Who Wonder</h3>
                 <p className="text-gray-300 text-sm">Digital Artwork, 2025</p>
               </div>
               
