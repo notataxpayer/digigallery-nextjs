@@ -11,12 +11,17 @@
   "dependencies": {
     "@material-tailwind/html": "^3.0.0-beta.7",
     "@material-tailwind/react": "^2.1.10",
+    "@react-three/drei": "^10.0.7",
+    "@react-three/fiber": "^9.1.2",
+    "@types/three": "^0.176.0",
+    "drei": "^2.2.21",
     "framer-motion": "^12.9.2",
     "motion": "^12.9.2",
     "next": "15.3.1",
     "particles.js": "^2.0.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "three": "^0.176.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -30,8 +35,8 @@
     "typescript": "^5"
   },
   "eslintConfig": {
-  "rules": {
-    "@typescript-eslint/no-unused-vars": "off"
+    "rules": {
+      "@typescript-eslint/no-unused-vars": "off"
+    }
   }
-}
 }
